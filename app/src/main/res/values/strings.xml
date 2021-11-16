@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Instagram Comments</string>
+
+    <string name="parent_comment_position_key">parent_comment_position</string>
+    <string name="string_comment_like">like</string>
+    <string name="string_comment_reply">Reply</string>
+    <string name="string_comment_view_replies">view replies </string>
+</resources>
